@@ -13,7 +13,7 @@ window.onload = function() {
 function generateExcuse() {
   let who = ["The dog", "My grandma", "His turtle", "My bird", "I"];
   let action = ["ate", "peed", "crushed", "broke", "fall asleep over"];
-  let what = ["my homework", "the keys", "the car", "my lpatop"];
+  let what = ["my homework", "the keys", "the car", "my laptop"];
   let when = [
     "before the class",
     "right on time",
